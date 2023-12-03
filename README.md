@@ -8,4 +8,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/riek10/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/riek10/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/riek10/azure-network-protocols)  
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/riek10/azure-network-protocols)
+- <b>Owasp Juice Shop</b>
+  - [Penetration Tests and Enumeration on Owasp Juice Shop Web Application within Azure VMs]
