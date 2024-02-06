@@ -11,3 +11,5 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/riek10/azure-network-protocols)
 - <b>Owasp Juice Shop</b>
   - [Exploitation and Vulnerability Testing within Juice Shop Web Application](https://github.com/riek10/owasp-juice-shop)
+- <b>AWS & Google Cloud<b>
+  - [Luxury Hotels & Resorts company migrating data to the cloud](
